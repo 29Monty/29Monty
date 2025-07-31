@@ -16,7 +16,7 @@
   
  💬 Ask me about **Trading,Ai,Crypto and Blockchain**
   
- 📫 How to reach me: **[Here](www.linkedin.com/in/philimon-alex-0a606a261)**
+ 📫 How to reach me: **[Here](www.linkedin.com/in/philimon-alex-0a606a261+[intagram]https://www.instagram.com/montymonty2345?igsh=OXRteHdyZDY2aDNx)**
   
  🧠 Fun fact: **Octopuses have three hearts and blue blood!**
   
@@ -70,7 +70,7 @@
     <br/><br/>
     <br/>
     <h3 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+connect+on+LinkedIn!+%F0%9F%91%8B" alt="Typing Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+connect+on+LinkedIn!+%F0%9F%91%8B;Let's+connect+on+Instagram!+%F0%9F%91%8B" alt="Typing Animation" />
     </h3>
 </div>
 <br/>
