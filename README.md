@@ -16,7 +16,7 @@
   
  💬 Ask me about **Trading,Ai,Crypto and Blockchain**
   
- 📫 How to reach me: **[Here](www.linkedin.com/in/philimon-alex-0a606a261+[intagram]https://www.instagram.com/montymonty2345?igsh=OXRteHdyZDY2aDNx)**
+ 📫 How to reach me: **[Here](www.linkedin.com/in/philimon-alex-0a606a261)**
   
  🧠 Fun fact: **Octopuses have three hearts and blue blood!**
   
