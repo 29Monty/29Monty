@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
 
-  <a href="https:/www.linkedin.com/in/philimon-alex-0a606a261">
+  <a href="https:/www.linkedin.com/in/philimon-alex-0a606a261/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -56,6 +56,18 @@
 </div>
 <br/>
 
+<h2 align="center">Support Me 🤝</h2>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/philimonalex" target="_blank">
+    <img 
+      src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" 
+      alt="Buy Me A Coffee" 
+      style="height: 60px !important; width: 217px !important;"
+    >
+  </a>
+</p>
+<br>
+  
 <h2 align="center">📃 Stats 📃</h2>
 <br/>
 <div align="center">
