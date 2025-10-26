@@ -86,3 +86,10 @@
     </h3>
 </div>
 <br/>
+
+
+<p align="center">  
+  <a href="https://www.linkedin.com/in/philimon-alex-0a606a261/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+    <a href="https://www.instagram.com/montymonty2345" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
