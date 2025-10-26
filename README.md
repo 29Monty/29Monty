@@ -10,13 +10,13 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **Advertising App**
+ 🔭 I’m currently working on **Something Interesting**
   
  🌱 I’m currently learning **Tailwind,React,Node.js and MangoDB**
   
  💬 Ask me about **Trading,Ai,Crypto and Blockchain**
-  
- 📫 How to reach me: **[Here](www.linkedin.com/in/philimon-alex-0a606a261)**
+
+ 🛸 I'm looking forward to build a **Software Agency**
   
  🧠 Fun fact: **Octopuses have three hearts and blue blood!**
   
@@ -27,11 +27,8 @@
 <br>
 
 <div align="center">
-  <a href="mailto:madmonty29@gmail.com" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" 
-      alt="Gmail"
-    />
+   <a href="https://www.instagram.com/montymonty2345" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   </a>
 
   <a href="https://www.linkedin.com/in/philimon-alex-0a606a261/" target="_blank">
@@ -44,8 +41,8 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,firebase,mongodb,c,java" />
-        <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,ai" />
+        <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,firebase,mongodb,java" />
+        <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,php,figma,ai" />
     </a>
 </div>
 <br>
@@ -78,7 +75,7 @@
     <br/>
     <img width="335" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=29Monty&layout=compact&theme=react&border_radius=18&hide_border=true" alt="top languages"/>
 </div>
-<br/><br/>
+<br/>
 
 <div align="center">
     <br/><br/>
