@@ -41,7 +41,7 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,firebase,mongodb,java" alt="Languages and frameworks part 1" />
+        <img src="https://skillicons.dev/icons?i=nodejs,git,python,javascript,firebase,mongodb,java" alt="Languages and frameworks part 1" />
         <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,php,figma" alt="Languages and frameworks part 2" />
     </a>
 </div>
