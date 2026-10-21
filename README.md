@@ -50,7 +50,7 @@
 <div align="center">
     <h2>🎃 My Contributions 🎃</h2>
     <br>
-    <img alt="GitHub contributions snake animation" src="https://github.com/salesp07/salesp07/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contributions snake animation" src="https://github.com/29Monty/29Monty/blob/output/github-contribution-grid-snake.svg" />
     <br/><br/><br/>
 </div>
 <br/>
